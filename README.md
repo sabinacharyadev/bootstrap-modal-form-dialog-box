@@ -1,12 +1,31 @@
-# React + Vite
+# React Bootstrap Modal with Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project implements React Bootstrap Modal with Controlled React Form.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Follow these steps to set up the project locally:
 
-## Expanding the ESLint configuration
+### 1. Clone the repository
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+First, clone the repository to your local machine:
+
+<code>git clone https://github.com/sabinacharyadev/bootstrap-modal-form-dialog-box.git</code>
+
+### 2. Install Dependencies
+
+Navigate to the root directory and install dependencies:
+
+<code>cd bootstrap-modal-form-dialog-box</code>
+
+<code>yarn</code>
+
+### 3. Run the Application
+
+<code>yarn dev</code>
+
+## Images
+
+![project_screenshot](https://i.postimg.cc/ncwSYzWC/Screenshot-2025-03-03-at-5-27-08-pm.png)
+
+![project_screenshot](https://i.postimg.cc/90Q1y5td/Screenshot-2025-03-03-at-5-29-05-pm.png)
